@@ -1,7 +1,3 @@
-####  Adapted from https://spin.atomicobject.com/2016/08/26/makefile-c-projects/ ####
-####  Professor Gustavo said its fine to use it ####
-####  Refer to https://piazza.com/class/kduh3xm2q4w3yw?cid=2945 ####
-
 TARGET_EXEC ?= constructor
 
 BUILD_DIR ?= ./build
