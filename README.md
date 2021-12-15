@@ -4,7 +4,7 @@
 
 ### Welcome in the readme file of Catan Game ! 🏆🏆🏆
 
-This is a project about the creation of the board game CATAN Game, according to the rules of games available on the official website: https://www.catan.com/sites/prod/files/202106/catan_base_rules_2020_200707.pdf
+This is a project about the creation of the board game CATAN Game, according to the rules of games , more info are available in the official website: https://www.catan.com/sites/prod/files/202106/catan_base_rules_2020_200707.pdf
 
                - 2 to 6 players possible
 
